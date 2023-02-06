@@ -8,8 +8,8 @@ I have a unique perspective, having served as a scientific and technological adv
 
 Join me on my journey to make data work for us, not the other way around.
 
-- 💬 Ask me about Knowledge Engineering, Ontologies, FAIR Data, and Data Science.
-- 📫 How to reach me: [Lin-in-bio page](http://bit.ly/m/ereynrs)
+💬 Ask me about Knowledge Engineering, Ontologies, FAIR Data, and Data Science.
+📫 How to reach me: [Lin-in-bio page](http://bit.ly/m/ereynrs)
 
 <!--
 **ereynrs/ereynrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
