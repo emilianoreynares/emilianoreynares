@@ -7,5 +7,3 @@ With over 10 years of experience as a manager and researcher in R&D&I projects, 
 
 
 🚀 Join me on my journey to make data work for us, not the other way around. 
-
-PS: 📫 Reach me at [Lin-in-bio page](http://bit.ly/m/ereynrs)
