@@ -12,6 +12,18 @@ I have 10+ years of experience helping public and private organizations achieve 
 
 ✍️ Follow my thoughts and experiences working at the intersection of data management, AI, healthcare, and life sciences on my [personal blog](https://ereynrs.github.io/blog/) or [Medium](https://ereynrs.medium.com/) space.
 
+I have expertise on
+* Healthcare and Life Sciences -related ontologies, taxonomies, and vocabularies.
+* Development of ontologies, taxonomies, vocabularies, and knowledge graphs.
+* Data modeling.
+* Application of AI/ML techniques.
+
+And experience as
+* Ontology, knowledge graph, and AI expert at IQVIA. SME involved on building an enterprise ontology product and strategy.
+* Knowledge engineer at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), individual contributor on the development of FAIR-enabled data platform. Engaged in cross-pharma/academia “data FAIRification” activities.
+* Staff scientist at [CONICET](https://www.conicet.gov.ar/about-the-conicet/?lan=en). Artificial intelligence. Semantic technologies and processes. Ontologies, Taxonomies, and Knowledge Graphs.
+* Professor at [Universidad Tecnológica Nacional](https://utn.edu.ar/). Information Systems Engineering. Graduate and pos-graduate levels. 
+
 #️⃣ [#ai](https://github.com/topics/ai) [#data](https://github.com/topics/data) [#healthcare](https://github.com/topics/healthcare) [#lifesciences](https://github.com/topics/lifesciences)
 
 
