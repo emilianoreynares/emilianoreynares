@@ -2,7 +2,7 @@
 
 This is Emiliano Reynares, Ontology and Knowledge Graph AI Expert at [IQVIA](https://www.iqvia.com/). 
 
-I’m passionate about Artificial Intelligence and Healthcare & Life Sciences related topics. 
+I’m passionate about all-things data at the healthcare and life sciences industry. 
 
 I have 10+ years of experience helping public and private organizations achieve their goals through innovation by blending deep knowledge with pragmatism. 
 
