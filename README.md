@@ -1,27 +1,16 @@
-### Hi there 👋
+### Hi, I’m Emiliano Reynares 👋
 
-This is Emiliano Reynares, Ontology and Knowledge Graph AI Expert at [IQVIA](https://www.iqvia.com/). 
+As a PhD in Engineering with over a decade of hands-on experience, I’ve dedicated my career to driving innovation through data-driven solutions. My journey has taken me through both academia and industry, where I thrive on solving complex challenges at the intersection of technology and business.
 
-I’m passionate about all-things data at the healthcare and life sciences industry. 
+**My Expertise:**
+* I specialize in the development and governance of data models, ontologies, and knowledge graphs, seamlessly integrating them with cutting-edge AI/ML techniques.
 
-I have 10+ years of experience helping public and private organizations achieve their goals through innovation by blending deep knowledge with pragmatism. 
+**Current Endeavors:**
+* I’m crafting an ontology-based data quality strategy at [IQVIA](https://www.iqvia.com/).
 
-📬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ereynrs/) or [X](https://twitter.com/ereynrs)
+**Past Adventures:**
+* During my tenure as a Knowledge Engineer at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), I actively contributed to the development of a FAIR-enabled data platform. Engaging in pharmaceuticals/academia driven data FAIRification activities, I witnessed firsthand the power of standardized, accessible data.
+* In a previous life, I donned the hats of a staff scientist at [CONICET](https://www.conicet.gov.ar/about-the-conicet/?lan=en) and a professor at [Universidad Tecnológica Nacional](https://utn.edu.ar/). These diverse experiences have shaped my holistic understanding of research, teaching, and practical application.
 
-I have expertise on
-* Healthcare and Life Sciences -related ontologies, taxonomies, and vocabularies.
-* Development of ontologies, taxonomies, vocabularies, and knowledge graphs.
-* Data modeling.
-* Application of AI/ML techniques.
-
-And experience as
-* Ontology, knowledge graph, and AI expert at IQVIA. SME involved on building an enterprise ontology product and strategy.
-* Knowledge engineer at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), individual contributor on the development of FAIR-enabled data platform. Engaged in cross-pharma/academia “data FAIRification” activities.
-* Staff scientist at [CONICET](https://www.conicet.gov.ar/about-the-conicet/?lan=en). Artificial intelligence. Semantic technologies and processes. Ontologies, Taxonomies, and Knowledge Graphs.
-* Professor at [Universidad Tecnológica Nacional](https://utn.edu.ar/). Information Systems Engineering. Graduate and pos-graduate levels.
-
-🚀 Join me on my journey to make data work.
-
-#️⃣ [#ai](https://github.com/topics/ai) [#data](https://github.com/topics/data) [#healthcare](https://github.com/topics/healthcare) [#lifesciences](https://github.com/topics/lifesciences)
-
-
+**Let’s Connect!**
+I want to connect with fellow professionals, researchers, and industry enthusiasts. Whether you’re passionate about data or simply want to exchange insights, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ereynrs/).
