@@ -13,4 +13,4 @@ As a PhD in Engineering with over a decade of hands-on experience, I’ve ded
 * In a previous life, I donned the hats of a staff scientist at [CONICET](https://www.conicet.gov.ar/about-the-conicet/?lan=en) and a professor at [Universidad Tecnológica Nacional](https://utn.edu.ar/). These diverse experiences have shaped my holistic understanding of research, teaching, and practical application.
 
 **Let’s Connect!**
-I want to connect with fellow professionals, researchers, and industry enthusiasts. Whether you’re passionate about data or simply want to exchange insights, feel free to reach out to me on [X](https://x.com/ereynrs), [Mastodon](https://mastodon.social/@ereynrs) or [LinkedIn](https://www.linkedin.com/in/emilianoreynares/).
+I want to connect with fellow professionals, researchers, and industry enthusiasts. Whether you’re passionate about data or simply want to exchange insights, feel free to reach out to me on [Mastodon](https://mastodon.social/@ereynrs) or [LinkedIn](https://www.linkedin.com/in/emilianoreynares/).
