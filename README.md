@@ -1,5 +1,3 @@
-### Hi, I’m Emiliano Reynares 👋
-
 As a PhD in Engineering with over a decade of hands-on experience, I’ve dedicated my career to driving innovation through data-driven solutions. My journey has taken me through both academia and industry, where I thrive on solving complex challenges at the intersection of technology and business. __I share my thoughts and ideas [here](https://github.com/emilianoreynares/emilianoreynares/wiki)__.
 
 **Expertise:**
